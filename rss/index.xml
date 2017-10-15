@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mkhymohamed.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Oct 2017 07:33:52 GMT</lastBuildDate><atom:link href="https://mkhymohamed.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello Github World!]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://mkhymohamed.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 15 Oct 2017 07:38:37 GMT</lastBuildDate><atom:link href="https://mkhymohamed.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello Github World!]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
-<div class="literalblock">
-<div class="content">
-<pre>:published_at: 2017-07-14</pre>
-</div>
-</div>
 <div class="paragraph">
 <p>"Hello world" is the first program that everyone wanted to code must code it. But in this article I do not mean going to code, here I want to introduce you some info about me and why coding.</p>
 </div>
@@ -21,6 +16,11 @@
 </div>
 <div class="paragraph">
 <p>In the long term, I want this blog to be a written record of my experience as <strong>a budding software engineer</strong> and <strong>human</strong>.</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>:published_at: 2017-07-14</pre>
+</div>
 </div>
 </div>
 </div>]]></description><link>https://mkhymohamed.github.io/2017/07/14/Hello-Github-World.html</link><guid isPermaLink="true">https://mkhymohamed.github.io/2017/07/14/Hello-Github-World.html</guid><dc:creator><![CDATA[Mohamed Khaled Yousef]]></dc:creator><pubDate>Fri, 14 Jul 2017 00:00:00 GMT</pubDate></item></channel></rss>
