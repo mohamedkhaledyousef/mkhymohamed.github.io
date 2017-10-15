@@ -9,6 +9,6 @@ After reading more about CS and this field I think that to become *software engi
 
 In the long term, I want this blog to be a written record of my experience as *a budding software engineer* and *human*.
 
- :published_at: 2017-07-14
+ published_at: 2017-07-14
 
 
